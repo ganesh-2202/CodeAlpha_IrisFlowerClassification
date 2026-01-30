@@ -35,8 +35,9 @@ Species Prediction
 
 👩‍💻 Author
 
-B. Vishnu Priya
+Garakala Ganesh
 CodeAlpha Data Science Intern
 
 ---
+
 
